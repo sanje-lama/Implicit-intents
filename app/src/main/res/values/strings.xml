@@ -1,0 +1,10 @@
+<resources>
+    <string name="edittext_uri">http://developer.android.com</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">Coalition for Queens</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edittext_share">\Texts</string>
+    <string name="button_share">Share This Text</string>
+</resources>
